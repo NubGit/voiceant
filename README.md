@@ -1,6 +1,4 @@
-# We're moving!
-Because Im working on the new update that pushes auto-updates, I gotta move the page. Sorry!
-
+## Voiceant
 
 Welcome to the voiceant page! 
 Updates will be slower because, I gotta sign files to give proof I made this.
