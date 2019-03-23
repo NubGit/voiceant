@@ -1,5 +1,5 @@
-# voiceant
--- VOICEANT APP IS NOT HERE - FIXING BUGS
+# We're moving!
+Because Im working on the new update that pushes auto-updates, I gotta move the page. Sorry!
 
 
 Welcome to the voiceant page! 
