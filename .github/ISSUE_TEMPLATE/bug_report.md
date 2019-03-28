@@ -7,22 +7,40 @@ assignees: ''
 
 ---
 
-**Describe the bug**
+**Describe the bug/issue**
 Give us a simple or clear information what is happening.
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+If applicable, add screenshots below to help explain your problem.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+-- INSERT ANY SCREENSHOTS HERE
+
+
+
+
+
+
+
+**Oprating Systems**
+What version of windows you run on?
+Example : Windows 8
+
 
 **Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
+ - Device: Example: [e.g. iPhone,Andoird] -- Awnser below here
+ 
+ 
+ - What OS Version of Iphone / Android you have?
+Go to it by: Android: 
+Go to settings
+Scroll down and select About Phone.
+Scroll down to Android Version.
+Under "Android version" you'd see under the small font, a number. That's the version.
+For IOS go to:
+Settings > General > About.
+Then look for version then that small font, a number. That's the version.
+-- Write Version number down here
+ 
+--
 **Additional context**
 Add any other context about the problem here.
