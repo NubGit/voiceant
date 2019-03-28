@@ -8,7 +8,8 @@ assignees: ''
 ---
 
 **Describe the bug/issue**
-Give us a simple or clear information what is happening.
+Give us a simple or clear information what is happening Down here.
+
 
 **Screenshots**
 If applicable, add screenshots below to help explain your problem.
@@ -24,10 +25,10 @@ If applicable, add screenshots below to help explain your problem.
 **Oprating Systems**
 What version of windows you run on?
 Example : Windows 8
-
+Your Oprating version :
 
 **Smartphone (please complete the following information):**
- - Device: Example: [e.g. iPhone,Andoird] -- Awnser below here
+ - Device: Example: [e.g. iPhone,Android] -- Answer below here
  
  
  - What OS Version of Iphone / Android you have?
