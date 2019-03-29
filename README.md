@@ -1,3 +1,5 @@
+## New download link! 
+It's been moved to https://github.com/NubGit/voiceant/releases
 ## Voiceant
 
 Welcome to the voiceant page! 
