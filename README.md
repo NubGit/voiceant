@@ -4,8 +4,9 @@ It's been moved to https://github.com/NubGit/voiceant/releases
 
 Welcome to the voiceant page! 
 Updates will be slower because, I gotta sign files to give proof I made this.
-I made the program in a zip and exe file
-The program is not for macOS yet but for IOS and Android.
+I made the program in a zip,exe,apk and for ios.
+MACos will not be supported.
+
 
 ## Why your not getting updates that much.
 
